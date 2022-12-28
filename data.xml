@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<item id="1"><img>plant1.png</img><name>Kaktus</name><price>105</price></item>
+<item id="2"><img>plant2.png</img><name>Valera</name><price>105</price></item><item id="3"><img>plant3.png</img><name>Yorick</name><price>90</price></item><item id="4"><img>plant4.png</img><name>Sukkulent</name><price>95</price></item></items>
